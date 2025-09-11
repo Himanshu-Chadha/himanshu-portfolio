@@ -1,7 +1,3 @@
-# himanshu-portfolio
-Portfolio showcasing my journey in Data Science and Analytics with projects, dashboards, and coding practice.
-
-
 # Himanshu Chadha - Data Science & Analytics Portfolio 🚀
 
 Welcome to my portfolio repository!  
@@ -27,14 +23,6 @@ This portfolio links to my different focused repositories:
 - [ML Projects](https://github.com/YourUserName/ml-projects) → Machine Learning models and analysis.  
 - [LeetCode Python](https://github.com/YourUserName/leetcode-python) → Problem-solving practice with Python.
 
----
-
-## 🔥 Featured Projects
-- **Sales Dashboard (Power BI)** → Analyze 10K+ transactions, top customers, profit trends, KPIs.  
-- **Employee Attrition Prediction (Python + ML)** → Logistic Regression model with ~78% accuracy.  
-- **Customer Segmentation (ML)** → KMeans clustering to identify target customer groups.  
-
-(Projects will be linked here as they are completed ✅)
 
 ---
 
