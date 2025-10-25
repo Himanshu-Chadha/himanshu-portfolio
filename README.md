@@ -59,11 +59,7 @@ ExtremeDB, Git, Bitbucket, SourceTree, Confluence, Agile Development, Visual Stu
 ## 📬 Connect with Me  
 
 - **LinkedIn:** [Himanshu Chadha](https://www.linkedin.com/in/himanshu-chadha-7ab6b51b4)  
-- **GitHub:** [Himanshu-Chadha](https://github.com/Himanshu-Chadha)  
-- **LeetCode:** [Profile Link](https://leetcode.com/your-leetcode-id)  
-- **Email:** chadha.himanshu.25@gmail.com  
-- **Phone:** +91-8700893288  
-
+ 
 ---
 
 ⭐ **Don’t forget to check individual repositories for detailed READMEs, projects, and my daily coding journey!**
