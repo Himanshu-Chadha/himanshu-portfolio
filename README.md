@@ -18,7 +18,7 @@ Here I showcase my journey in **Software Development, Backend Engineering, and D
 
 This portfolio links to my focused repositories that highlight different aspects of my technical journey:  
 
-- [**DSA Practice (Striver A2Z)**](https://github.com/Himanshu-Chadha/dsa-practice) → Daily problem-solving journey following Striver’s A2Z DSA Sheet in C++/Python.  
+- [**DSA Practice (Striver A2Z)**](https://github.com/Himanshu-Chadha/dsa-practice) → Daily problem-solving journey following Striver’s A2Z DSA Sheet in C++.  
 - [**C++ Projects**](https://github.com/Himanshu-Chadha/cpp-projects) → System-level projects, optimizations, and experiments.  
 - [**Backend Projects**](https://github.com/Himanshu-Chadha/backend-projects) → REST APIs, database-driven applications, and system design implementations.  
 - [**System Design Notes**](https://github.com/Himanshu-Chadha/system-design-notes) → Architecture patterns, scalability concepts, and design diagrams.  
